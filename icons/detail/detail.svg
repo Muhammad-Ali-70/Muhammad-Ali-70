@@ -281,7 +281,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="550" height="42" rx="18.0355" class="bubble" />
+    <rect width="530" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       Find me on LinkedIn at
       <a xlink:href="https://www.linkedin.com/in/m-ali-khattak/">linkedin.com/in/m-ali-khattak</a>
@@ -293,7 +293,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="280" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm React Native and Augmented Reality Enthusiast</text>
   </g>
 
