@@ -14,6 +14,7 @@ and developing high-quality mobile applications using **Flutter**.
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ali-70&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ali-70" /> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ali-70&" alt="muhammad-ali-70" /></p>
