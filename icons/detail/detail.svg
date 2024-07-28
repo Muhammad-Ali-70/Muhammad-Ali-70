@@ -251,8 +251,8 @@
 
   <!-- Hi, I'm  -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="320" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Muhammad Ali</text>
+    <rect width="170" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Muhammad Ali 👋</text>
   </g>
 
   <!-- typing 2 -->
@@ -261,7 +261,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Software Engineer | BS Computer Science | </text>
+    <text x="15" y="27">CS Grad '24 🎓 | Software Engineer </text>
     <text x="15" y="50">GDSC Core Team Lead</text>
   </g>
 
@@ -281,7 +281,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="530" height="42" rx="18.0355" class="bubble" />
+    <rect width="550" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       Find me on LinkedIn at
       <a xlink:href="https://www.linkedin.com/in/m-ali-khattak/">linkedin.com/in/m-ali-khattak</a>
@@ -293,7 +293,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="500" height="42" rx="18.0355" class="bubble" />
+    <rect width="520" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm React Native and Augmented Reality Enthusiast</text>
   </g>
 
