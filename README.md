@@ -20,7 +20,7 @@ and developing high-quality mobile applications using **Flutter**.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ali-70&" alt="muhammad-ali-70" /></p>
 
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **React Native & DevOps**
 
 - 👨‍💻 All of my projects are available at [**github.com/Muhammad-Ali-70**](https://github.com/Muhammad-Ali-70)
 
@@ -43,16 +43,17 @@ and developing high-quality mobile applications using **Flutter**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="icons/flutter/flutter.svg" width="45" height="45">
 <img src="icons/java/java.svg" width="45" height="45">
-<img src="icons/firebase/firebase.svg" width="45" height="45">
-<img src="icons/nodejs/nodejs.svg" width="45" height="45">
-<img src="icons/mongodb/mongodb.svg" width="45" height="45">
-<img src="icons/python/python.svg" width="45" height="45">
 <img src="icons/js/js.svg" width="45" height="45">
+<img src="icons/react-native/react-native.svg" width="45" height="45">
+<img src="icons/nodejs/nodejs.svg" width="45" height="45">
+<img src="icons/python/python.svg" width="45" height="45">
 <img src="icons/git/git.svg" width="45" height="45">
+<img src="icons/github/github.svg" width="45" height="45">
 <img src="icons/docker/docker.webp" width="55" height="45">
 <img src="icons/figma/figma.svg" width="45" height="45">
+<img src="icons/mysql/mysql.svg" width="45" height="45">
+
 
 
   </p>
